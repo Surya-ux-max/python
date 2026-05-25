@@ -22,6 +22,10 @@
 # else:    print("You are not an adult.");
 
 
+# chatgpt = input("What is ChatGPT? ");
+# if(chatgpt == "ChatGPT is an AI language model developed by OpenAI."):
+#     print("Correct! ChatGPT is indeed an AI language model developed by OpenAI.");
+
 chatgpt = input("What is ChatGPT? ");
-if(chatgpt == "ChatGPT is an AI language model developed by OpenAI."):
-    print("Correct! ChatGPT is indeed an AI language model developed by OpenAI.");
+if(chatgpt == "Chatgpt is AI tool to search,clarify and generate content."):
+    print("Correct! ChatGPT is indeed an AI tool to search,clarify and generate content.");
