@@ -26,6 +26,17 @@
 # if(chatgpt == "ChatGPT is an AI language model developed by OpenAI."):
 #     print("Correct! ChatGPT is indeed an AI language model developed by OpenAI.");
 
-chatgpt = input("What is ChatGPT? ");
-if(chatgpt == "Chatgpt is AI tool to search,clarify and generate content."):
-    print("Correct! ChatGPT is indeed an AI tool to search,clarify and generate content.");
+# chatgpt = input("What is ChatGPT? ");
+# if(chatgpt == "Chatgpt is AI tool to search,clarify and generate content."):
+#     print("Correct! ChatGPT is indeed an AI tool to search,clarify and generate content.");
+
+# name = "Surya";
+# age = 20;
+# heighth = 5.8;
+# value = True;
+
+# print(name);
+# print(str(age));
+# print(str(heighth));
+# print(str(value));
+
